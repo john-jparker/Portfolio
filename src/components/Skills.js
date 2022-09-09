@@ -27,7 +27,7 @@ const Skills = () => {
                   data-color="#142eb5"
                 >
                   <span>
-                    <span className="label">WordPress</span>
+                    <span className="label">React</span>
                     <span className="number">95%</span>
                   </span>
                   <div className="background">
@@ -38,12 +38,12 @@ const Skills = () => {
                 </div>
                 <div
                   className="skillsInner___ progress_inner"
-                  data-value={75}
+                  data-value={92}
                   data-color="#142eb5"
                 >
                   <span>
-                    <span className="label">Joomla</span>
-                    <span className="number">75%</span>
+                    <span className="label">Node.JS</span>
+                    <span className="number">92%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
@@ -57,8 +57,23 @@ const Skills = () => {
                   data-color="#142eb5"
                 >
                   <span>
-                    <span className="label">Drupal</span>
+                    <span className="label">Laravel</span>
                     <span className="number">90%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="skillsInner___ progress_inner"
+                  data-value={91}
+                  data-color="#142eb5"
+                >
+                  <span>
+                    <span className="label">Next.js</span>
+                    <span className="number">91%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
@@ -70,14 +85,14 @@ const Skills = () => {
             </div>
             <div className="right">
               <div className="dodo_progress">
-                <div
+              <div
                   className="skillsInner___ progress_inner"
-                  data-value={70}
+                  data-value={88}
                   data-color="#142eb5"
                 >
                   <span>
-                    <span className="label">Python</span>
-                    <span className="number">70%</span>
+                    <span className="label">Vue</span>
+                    <span className="number">88%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
@@ -87,12 +102,12 @@ const Skills = () => {
                 </div>
                 <div
                   className="skillsInner___ progress_inner"
-                  data-value={80}
+                  data-value={90}
                   data-color="#142eb5"
                 >
                   <span>
-                    <span className="label">PHP</span>
-                    <span className="number">80%</span>
+                    <span className="label">AWS</span>
+                    <span className="number">90%</span>
                   </span>
                   <div className="background">
                     <div className="bar">
@@ -102,12 +117,27 @@ const Skills = () => {
                 </div>
                 <div
                   className="skillsInner___ progress_inner"
-                  data-value={60}
+                  data-value={100}
                   data-color="#142eb5"
                 >
                   <span>
                     <span className="label">JavaScript</span>
-                    <span className="number">60%</span>
+                    <span className="number">100%</span>
+                  </span>
+                  <div className="background">
+                    <div className="bar">
+                      <div className="bar_in" />
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className="skillsInner___ progress_inner"
+                  data-value={100}
+                  data-color="#142eb5"
+                >
+                  <span>
+                    <span className="label">PHP</span>
+                    <span className="number">100%</span>
                   </span>
                   <div className="background">
                     <div className="bar">

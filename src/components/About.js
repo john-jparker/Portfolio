@@ -5,9 +5,9 @@ const aboutData = {
     "Since beginning my journey as a freelance designer over 11 years ago, I've done remote work for agencies, consulted for startups, and collaborated with talented people to create digital products for both business and consumer use. I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.",
   ],
   skillIcons: [
-    { name: "joomla", icon: "img/svg/joomla.svg" },
-    { name: "wp", icon: "img/svg/wp.svg" },
-    { name: "drupal", icon: "img/svg/drupal.svg" },
+    { name: "joomla", icon: "img/svg/aws.svg" },
+    { name: "wp", icon: "img/svg/react.svg" },
+    { name: "drupal", icon: "img/svg/node.svg" },
     { name: "laravel", icon: "img/svg/laravel.svg" },
   ],
 };
