@@ -31,7 +31,7 @@ const Testimonials = () => {
                 <div className="list_inner">
                   <img className="svg" src="img/svg/quote.svg" alt="" />
                   <p className="text">
-                  Josh Niday was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish.
+                  John Parker was a real pleasure to work with and we look forward to working with him again. He’s definitely the kind of designer you can trust with a project from start to finish.
                   </p>
                   <div className="details">
                     <div className="image">
@@ -51,7 +51,7 @@ const Testimonials = () => {
                 <div className="list_inner">
                   <img className="svg" src="img/svg/quote.svg" alt="" />
                   <p className="text">
-                  Josh Niday's a clear communicator with the tenacity and confidence to really dig in to tricky design scenarios and the collaborative friction that's needed to produce excellent work.
+                  John Parker is a clear communicator with the tenacity and confidence to really dig in to tricky design scenarios and the collaborative friction that's needed to produce excellent work.
                   </p>
                   <div className="details">
                     <div className="image">

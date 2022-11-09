@@ -1,8 +1,8 @@
 import Counter from "./Counter";
 
 const homeData = {
-  firstName: "Josh",
-  lastName: "Niday",
+  firstName: "John",
+  lastName: "Parker",
   designation: "Web Developer",
   address: "Ocala, Florida",
   img: "img/hero/2.jpg",

@@ -135,19 +135,8 @@ const Contact = () => {
                       <div className="short">
                         <h3>Email</h3>
                         <span>
-                          <a href="#">nidayjosh9@gmail.com</a>
+                          <a href="#">parkerjakejohn127@gmail.com</a>
                         </span>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div className="list_inner">
-                      <div className="icon">
-                        <i className="icon-phone purpleText" />
-                      </div>
-                      <div className="short">
-                        <h3>Phone</h3>
-                        <span>+123 456 7890</span>
                       </div>
                     </div>
                   </li>
